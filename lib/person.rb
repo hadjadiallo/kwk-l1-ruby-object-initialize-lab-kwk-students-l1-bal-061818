@@ -6,3 +6,4 @@ class Person
     puts "hi my #{name} is"
   end
 end 
+ new_person =
