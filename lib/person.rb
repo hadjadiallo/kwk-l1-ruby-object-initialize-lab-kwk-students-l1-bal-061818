@@ -6,4 +6,4 @@ class Person
     puts "hi my #{name}"
   end
 end 
- new_person = Person.new ("")
+ new_person = Person.new ("emma")
