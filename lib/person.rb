@@ -1,7 +1,7 @@
 # person.rb
 
 class Person
-  def initialize(name)
+  def initialize(name="liz")
     @name = name 
     puts "hi my #{name} is"
   end
